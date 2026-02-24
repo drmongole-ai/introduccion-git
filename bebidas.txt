@@ -1,0 +1,3 @@
+fanta: 100
+cocacola: 30
+vino: 50

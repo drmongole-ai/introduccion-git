@@ -1,0 +1,3 @@
+acelgas: 100
+puchero: 30
+cocido: 50

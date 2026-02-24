@@ -1,0 +1,3 @@
+tarta: 100
+flan: 30
+fruta: 50
