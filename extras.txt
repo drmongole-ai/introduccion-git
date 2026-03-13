@@ -1,2 +1,2 @@
-musica: 100
+musica: 150
 television: 200
