@@ -1,3 +1,4 @@
 acelgas: 100
 puchero: 30
-cocido: 500
+cocido: 50
+espaguetti: 20
