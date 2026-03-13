@@ -2,3 +2,4 @@ acelgas: 10
 puchero: 30
 cocido: 500
 paella:20
+sopa:30
