@@ -1,4 +1,4 @@
-fanta: 100
+fanta: 10
 cocacola: 50
 vino: 50
 cocacola: 30
