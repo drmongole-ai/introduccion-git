@@ -1,4 +1,5 @@
 fanta: 100
 cocacola: 50
 vino: 50
-cocacola: 30
+cocacola: 5
+agua con gas: 2
