@@ -1,2 +1,2 @@
-musica: 150
-television: 200
+musica: 150€
+television: 200€
