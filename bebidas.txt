@@ -1,4 +1,6 @@
 fanta: 100
-cocacola: 50
+cocacola: 5
 vino: 50
-cocacola: 30
+cocacola: 3
+agua: 1
+pepsi: 2
